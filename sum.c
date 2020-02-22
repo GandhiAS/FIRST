@@ -1,4 +1,4 @@
-"ADDING TWO NUMBERS"
+"SUM OF TWO NUMBERS"
 echo "Enter two numbers"
 read a
 read b
